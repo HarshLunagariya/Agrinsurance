@@ -1,0 +1,103 @@
+.heading{
+	padding: 30px;
+	
+}
+li{
+	display: inline;
+}
+.li1{
+	font-size: 25px;
+}
+.li2{
+	float: right;
+	padding: 20px;
+	font-size: 20px;
+}
+{
+	padding-left: 100px;
+}
+.div2{
+	padding-top: 100px;
+	padding-left: 200px;
+}
+#butt{
+
+}
+.div3{
+	text-align: center;
+	font-size: 50px;
+}
+.div4{
+	height: 50px;
+	background-color: blue;
+	opacity: 0.6;
+}
+.div5{
+	font-size: 17px;
+	padding-left: 200px;
+}
+.div6{
+	display: inline-block;
+	width: 600px;
+	height: 300px;
+}
+#div7{
+	margin-left: 400px;
+	font-size: 20px;
+}
+table{
+	border-collapse: collapse;
+}
+td{
+	border-top: 1px solid #ddd;
+	padding: 20px;
+}
+.div8{
+	padding: 10px;
+	display: inline-block;
+	width: 400px;
+	height: 500px;
+	text-align: center;
+}
+#div9{
+	text-align: center;
+}
+.div10{
+	margin-top: 30px;
+	width: 150px;
+	height: 100px;
+	margin-left: 120px;
+}
+.div11{
+	width: 150px;
+	height: 50px;
+	background-color: blue;
+	border-radius: 30%;
+}
+#div12{
+	background-color: blue;
+}
+#div16 #div17{
+	fill: blue;
+	opacity: 0.6;
+}
+#wave2{
+	fill: blue;
+	opacity: 0.6;
+}
+#div14 #div15{
+	fill: white;
+}
+#div14{
+	background-color: blue;
+	opacity: 0.6;
+}
+#map {
+	
+     width: 500px;
+    height: 400px;
+    float: center;
+    position: absolute;
+    height: 400px; 
+    margin-left: 50px;
+}
